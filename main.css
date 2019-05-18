@@ -13625,11 +13625,16 @@ a{
 
 .box{
     margin-bottom: 30px;
-    height: 35vh;
+    height: 38vh;
 }
 
 .box-title{
     text-align: center;
     color: yellow;
     font-size: 1.2rem;
+}
+
+.nagy{
+    font-size: .73rem;
+    
 }
